@@ -30,7 +30,7 @@ This project demonstrates improvements in chatbot UX for non-technical users, de
 
 ## 🔗 Live Demo (Backup)
 If the local installation does not work, you can view the hosted version here:  
-👉 [AI Studio Demo](https://aistudio.google.com/app/prompts?state=%7B%22ids%22%3A%5B%221dGL01Wmb7XgIwMkkcr58BwX-emxXpU5H%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22110260579095640178355%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=sharing)
+👉 [AI https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221dGL01Wmb7XgIwMkkcr58BwX-emxXpU5H%22%5D,%22action%22:%22open%22,%22userId%22:%22110260579095640178355%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
 
 ## 🎥 Demo Video
 [Link to demo video goes here]
