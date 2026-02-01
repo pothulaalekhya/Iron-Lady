@@ -1,0 +1,7 @@
+{
+  "name": "Iron Lady - Women Leadership Platform",
+  "description": "A premium platform designed to fast-track women into top leadership and board member roles, featuring AI-powered career coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
